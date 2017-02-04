@@ -53,8 +53,8 @@ SITE_ID = 1
 
 EMAIL_HOST='smtp.sendgrid.com'
 EMAIL_HOST_USER='djangonavin'
-EMAIL_MAIN='navinnarshetty@gmail.com'
-EMAIL_HOST_PASSWORD='navin1913'
+EMAIL_MAIN='****'
+EMAIL_HOST_PASSWORD='***'
 EMAIL_PORT=587
 EMAIL_USE_TLS=True
 

@@ -1,0 +1,6 @@
+Required all_auth installation
+read the django_message doc
+follow the guide
+then python manange.py runserver
+on local host when logged in i am not abget the users but can send message .
+please let me if that helps
